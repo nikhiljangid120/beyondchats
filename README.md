@@ -87,7 +87,6 @@ node processor/phase2.js
     App.jsx     # Main Layout
     api.js      # API Integration
 ```
-
 ## 📝 Configuration
 - **API Key**: The Gemini API Key is currently configured in `beyondchats-backend/processor/phase2.js`.
 - **Database**: Uses `sqlite` dialect, data stored in `database.sqlite`.
